@@ -1,6 +1,6 @@
-<!-- Banner principal -->
+<!-- Banner principal mejorado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:ff9068&height=200&section=header&text=🔥%20Bienvenido%20a%20mi%20Perfil%20🔥&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=🔥+Bienvenido+a+mi+perfil+GitHub+🔥;💻+Desarrollador+de+Software+Profesional;🚀+Soluciones+Tecnológicas+Innovadoras" alt="Typing SVG" />
 </p>
 
 <h2 align="center">💻 Desarrollador de Software | Soluciones Tecnológicas 🚀</h2>
@@ -41,8 +41,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steven-011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-011&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -54,10 +54,4 @@
   <a href="https://www.linkedin.com/in/TU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/TU-USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://wa.me/TU-NUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9068,100:ff4b1f&height=100&section=footer" />
 </p>
