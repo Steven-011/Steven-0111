@@ -1,7 +1,8 @@
-<!-- Banner principal mejorado -->
+<!-- Banner principal funcional -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=🔥+Bienvenido+a+mi+perfil+GitHub+🔥;💻+Desarrollador+de+Software+Profesional;🚀+Soluciones+Tecnológicas+Innovadoras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=🔥+Bienvenido+a+mi+perfil+GitHub+🔥;💻+Desarrollador+de+Software+Profesional;🚀+Soluciones+Tecnológicas+Innovadoras" alt="Typing SVG" />
 </p>
+
 
 <h2 align="center">💻 Desarrollador de Software | Soluciones Tecnológicas 🚀</h2>
 
